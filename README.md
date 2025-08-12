@@ -10,13 +10,21 @@ To analyze and visualize workforce attrition trends using key HR KPIs for data-d
 
 ## Questions (KPIs) Answered
 ◉ What is the overall attrition rate?
+
 ◉ Which department has the highest attrition?
+
 ◉ What is the average age, salary, and tenure of employees leaving?
+
 ◉ Does attrition vary by gender?
+
 ◉ Which age group is most affected by attrition?
+
 ◉ How does attrition vary across different salary ranges?
+
 ◉ What is the impact of education background on attrition?
+
 ◉ Which job roles are most affected?
+
 ◉ What is the trend of attrition over the years?
 
 <a href="https://github.com/Abdulkareem399/HR-Analytics-Power-Bi-Deshbord/blob/main/HR-Analytics%20ProjectScreenshot.jpg">veiw Deshbord</a>
