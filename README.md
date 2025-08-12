@@ -50,3 +50,6 @@ Attrition by year showing peak exits in the initial years, then declining.
 ## Deshbord 
 
 ![HR-Analytics Project Screenshot](https://github.com/user-attachments/assets/5cfdb1e1-00e7-4973-afcb-2a438d4ce9d4)
+
+![HR-Analytics ProjectScreenshot](https://github.com/user-attachments/assets/4caba6ea-0300-47fb-8f83-6987a801722a)
+
