@@ -53,3 +53,18 @@ Attrition by year showing peak exits in the initial years, then declining.
 
 ![HR-Analytics ProjectScreenshot](https://github.com/user-attachments/assets/4caba6ea-0300-47fb-8f83-6987a801722a)
 
+## Conclusion
+
+This analysis highlights that attrition is not uniform — it varies significantly by department, salary range, education, and age group.
+The findings can guide HR departments to:
+
+Target retention strategies for high-attrition roles and departments.
+
+Improve compensation structures for employees in lower salary bands.
+
+Focus on employee engagement programs for mid-career staff.
+
+Create tailored career development plans for vulnerable job roles.
+
+By leveraging such analytics, organizations can reduce turnover, save hiring costs, and improve employee satisfaction.
+
