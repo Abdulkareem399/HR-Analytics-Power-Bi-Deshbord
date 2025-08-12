@@ -31,9 +31,13 @@ To analyze and visualize workforce attrition trends using key HR KPIs for data-d
 
 ## Key Insights & Features
 ◉ Departments with lower salaries and shorter tenure tend to have higher attrition.
+
 ◉ Mid-career employees (26–35) are more likely to leave compared to other age groups.
+
 ◉ Sales and technical roles show high attrition, indicating potential workload or job satisfaction issues.
+
 ◉ Employees from Life Sciences and Marketing backgrounds dominate attrition numbers.
+
 ◉ Salary increments and engagement strategies could potentially reduce turnover in vulnerable groups.
 
 ## Deshbord 
